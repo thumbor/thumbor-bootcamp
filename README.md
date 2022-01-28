@@ -18,7 +18,7 @@ learning and contribution experience with ❤️ and 🤗 from the thumbor team
   </a>
 </p>
 
-thumbor bootcamp is a program to ease new contributors into thumbor's ecosystem, while learning more about open-source collaboration and technology.
+[thumbor bootcamp](https://github.com/thumbor/thumbor-bootcamp) is a program to ease new contributors into [thumbor](https://github.com/thumbor/thumbor)'s ecosystem, while learning more about open-source collaboration and technology. [Apply now!](https://github.com/thumbor/thumbor-bootcamp/issues/new)
 
 ### 🕵️ Who's invited?
 
@@ -41,7 +41,17 @@ We could keep going, but the truth is there's room for colaboration on so many l
 
 ### What is thumbor? Ecosystem?
 
-TODO.
+[thumbor](https://github.com/thumbor/thumbor) is an extensible imaging HTTP server. It crops, resizes and transforms images on-demand and serves this images to users.
+
+The extensible nature of thumbor means there are dozens of projects that extend it. Image loaders, storages and results storages, filters, detectors and much more.
+
+Apart from these extensions there's all sort of programming language and web framework integrations.
+
+This is what we call thumbor's ecosystem. All the cool projects that extend and improve thumbor's usage all over the world. You can learn more about it at [awesome-thumbor](https://github.com/thumbor/awesome-thumbor).
+
+These extensions allow thumbor to run in almost any architecture and cloud out there: AWS, GCP, Azure, DigitalOcean and even self-hosted. There are people using Redis, MongoDB, Postgres, Ceph, S3 and many others for storage of images, and the number of possibilities is endless.
+
+You can explore that and more in [thumbor's docs](https://thumbor.readthedocs.io/en/latest/index.html).
 
 ### Bootcamp Tasks
 
@@ -88,10 +98,6 @@ Disclaimer:
 * L3 - Medium effort. Multiple modules. ~2w to complete - This is a project level task. It involves discussing what you are doing, creating tests, updating docs. This is where you actually start learning about what it takes to keep a project the size of thumbor with momentum.
 * L4 - Large effort. Multiple modules. ~1m to complete - This is a transformative task that greatly benefits the ecosystem and the community. Once you complete a few of these, we expect to welcome you to the maintainers team, so you can also help onboard other bootcampers.
 
-### Getting started
-
-TODO
-
 ### Commitment
 
 What is expected of you?
@@ -101,6 +107,16 @@ What is expected of you?
 * 🧘 **Be patient!** In an open-source project people are donating their time to create good in the world. Thumbor is not different. Maintainers and contributors have families and jobs. We'll help as fast as we can.
 * 🦸‍♀️ **Be a force for good!** Whenever you can try to help other bootcampers, create or groom tasks here, improve documentation. Anything you feel is leaving a better world than what you started with.
 * ⚖️  **Be respectful!** We will not tolerate discrimination of any kind. We will not tolerate usage of words that enforce negative stereotypes. If this is not ok with you, this is not the project for you.
+
+### Getting started
+
+Before you even apply to this bootcamp program you can familiarize yourself with thumbor reading its [README](https://github.com/thumbor/thumbor) as well as its [documentation](https://thumbor.readthedocs.io/en/latest/index.html).
+
+It is a good idea to have thumbor running with default settings in your environment just to get a hang of what it does. Play with it, crop some images, apply filters.
+
+Once you are ready to get started, apply to the program by creating a new issue in this repository and filling a new [Join Thumbor Bootcamp issue](https://github.com/thumbor/thumbor-bootcamp/issues/new).
+
+Your application will be reviewed as soon as possible (remember: 🧘Be patient!). After you are accepted in the program, you can pick one of the L1 tasks and hack away! These tasks are designed to help you move fast and start shipping!
 
 ### 😡 Having Trouble?
 

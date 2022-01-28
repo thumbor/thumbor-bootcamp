@@ -1,19 +1,18 @@
 ---
-name: Bootcamp Support
+name: 💪 Bootcamp Support
 about: You have a problem about the bootcamp and don't know how to proceed
-title: "[Bootcamp-Support] Title"
+title: "[💪Bootcamp-Support] <title>"
 labels: bootcamp-support
 assignees: heynemann
 
 ---
 
----
-name: "\U0001F917 Bootcamp Support Question"
-about: "You need help about the bootcamp program"
-labels: 'i: support'
----
-
 ## Support Question
 
 **What's going on?**
-A clear and concise description of what you need help with
+A clear and concise description of what you need help with. Don't forget to include:
+
+* Where the problem is happening or where we're lacking docs
+* How did you got into this issue
+* If you feel like you know how we can help, add that too!
+* Anything else that can help

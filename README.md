@@ -1,5 +1,5 @@
 <p align="center">
-  <img title="thumbor" alt="thumbor" src="https://github.com/thumbor/thumbor/blob/readme/docs/thumbor-logo.png?raw=true" />
+  <img title="thumbor" alt="thumbor" src="https://github.com/thumbor/thumbor-bootcamp/blob/readme/thumbor-bootcamp.png?raw=true" />
 </p>
 
 <h3 align="center">

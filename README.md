@@ -118,6 +118,13 @@ Once you are ready to get started, apply to the program by creating a new issue 
 
 Your application will be reviewed as soon as possible (remember: 🧘Be patient!). After you are accepted in the program, you can pick one of the L1 tasks and hack away! These tasks are designed to help you move fast and start shipping!
 
+Go to this filtered views to search for your next task:
+
+* [L1 unassigned tasks](https://github.com/thumbor/thumbor-bootcamp/issues?q=is%3Aopen+-label%3Atriage+label%3AL1+label%3Atask+no%3Aassignee)
+* [L2 unassigned tasks](https://github.com/thumbor/thumbor-bootcamp/issues?q=is%3Aopen+-label%3Atriage+label%3AL2+label%3Atask+no%3Aassignee)
+* [L3 unassigned tasks](https://github.com/thumbor/thumbor-bootcamp/issues?q=is%3Aopen+-label%3Atriage+label%3AL3+label%3Atask+no%3Aassignee)
+* [L4 unassigned tasks](https://github.com/thumbor/thumbor-bootcamp/issues?q=is%3Aopen+-label%3Atriage+label%3AL4+label%3Atask+no%3Aassignee)
+
 ### 😡 Having Trouble?
 
 If you experience any trouble feel free to create an issue in this repository and tag @heynemann. We'll do our best to help you move forward and have fun!

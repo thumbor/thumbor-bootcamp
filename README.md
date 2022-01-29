@@ -14,7 +14,7 @@ learning and contribution experience with ❤️ and 🤗 from the thumbor team
     <img src='https://img.shields.io/github/issues-raw/thumbor/thumbor-bootcamp.svg'/>
   </a>
   <a href='https://github.com/thumbor/thumbor-bootcamp' target='_blank'>
-    <img alt="Github All Contributors" src="https://img.shields.io/github/all-contributors/thumbor/thumbor-bootcamp?style=plastic">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/thumbor/thumbor-bootcamp">
   </a>
 </p>
 

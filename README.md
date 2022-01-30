@@ -53,6 +53,38 @@ These extensions allow thumbor to run in almost any architecture and cloud out t
 
 You can explore that and more in [thumbor's docs](https://thumbor.readthedocs.io/en/latest/index.html).
 
+### 🤝 Commitment
+
+What is expected of you?
+
+* 🤢 **Do not bite more than you can chew!** Pick up tasks you feel confident in completing. This helps the community as we keep moving forward as well as keeps you motivated!
+* 🤗 **Be kind!** Always assume good intention as we're all trying to create incredible technology and have fun at the same time!
+* 🧘 **Be patient!** In an open-source project people are donating their time to create good in the world. Thumbor is not different. Maintainers and contributors have families and jobs. We'll help as fast as we can.
+* 🦸‍♀️ **Be a force for good!** Whenever you can, try to help other bootcampers, create or groom tasks, improve documentation. Anything you feel is leaving a better world than what you started with.
+* ⚖️  **Be respectful!** We will not tolerate discrimination of any kind. We will not tolerate usage of words that enforce negative stereotypes. If this is not ok with you, this is not the project for you. For more details check our [Code of Conduct](https://github.com/thumbor/thumbor-bootcamp/blob/main/CODE_OF_CONDUCT.md).
+
+### 🏃‍♀️ Getting started
+
+Before you even apply to this bootcamp program you can familiarize yourself with thumbor reading its [README](https://github.com/thumbor/thumbor) as well as its [documentation](https://thumbor.readthedocs.io/en/latest/index.html).
+
+It is a good idea to have thumbor running with default settings in your environment just to get a hang of what it does. Play with it, crop some images, apply filters.
+
+Once you are ready to get started, apply to the program by creating a new issue in this repository and filling a new [Join Thumbor Bootcamp issue](https://github.com/thumbor/thumbor-bootcamp/issues).
+
+First click on the issues tab:
+
+<img src="issues.png" height="80" alt="Click the issues tab" title="Click the issues tab" />
+
+Then click in new issue button:
+
+<img src="new-issue.png" height="60" alt="Click the new issue button" title="Click the new issue button" />
+
+Finally click the join bootcamp "Get started" button and fill your application:
+
+<img src="join-bootcamp.png" alt="Click the new issue button" title="Click the new issue button" />
+
+Your application will be reviewed as soon as possible (remember: 🧘Be patient!). After you are accepted in the program, you can pick one of the L1 tasks and hack away! These tasks are designed to help you move fast and start shipping!
+
 ### 🪖 Bootcamp Tasks
 
 Bootcamp tasks are how you interact with this learning experience. We believe in learning through action.
@@ -97,38 +129,6 @@ Disclaimer:
 | L3      | Medium | ~2w               | Multiple files/modules          | This is a project level task. It involves discussing what you are doing, creating tests, updating docs. This is where you actually start learning about what it takes to keep a project the size of thumbor with momentum. |
 | L4      | Large  | ~1m               | Multiple files/modules/projects | This is a transformative task that greatly benefits the ecosystem and the community. Once you complete a few of these, we expect to welcome you to the maintainers team, so you can also help onboard other bootcampers. |
 
-### 🤝 Commitment
-
-What is expected of you?
-
-* 🤢 **Do not bite more than you can chew!** Pick up tasks you feel confident in completing. This helps the community as we keep moving forward as well as keeps you motivated!
-* 🤗 **Be kind!** Always assume good intention as we're all trying to create incredible technology and have fun at the same time!
-* 🧘 **Be patient!** In an open-source project people are donating their time to create good in the world. Thumbor is not different. Maintainers and contributors have families and jobs. We'll help as fast as we can.
-* 🦸‍♀️ **Be a force for good!** Whenever you can, try to help other bootcampers, create or groom tasks, improve documentation. Anything you feel is leaving a better world than what you started with.
-* ⚖️  **Be respectful!** We will not tolerate discrimination of any kind. We will not tolerate usage of words that enforce negative stereotypes. If this is not ok with you, this is not the project for you. For more details check our [Code of Conduct](https://github.com/thumbor/thumbor-bootcamp/blob/main/CODE_OF_CONDUCT.md).
-
-### 🏃‍♀️ Getting started
-
-Before you even apply to this bootcamp program you can familiarize yourself with thumbor reading its [README](https://github.com/thumbor/thumbor) as well as its [documentation](https://thumbor.readthedocs.io/en/latest/index.html).
-
-It is a good idea to have thumbor running with default settings in your environment just to get a hang of what it does. Play with it, crop some images, apply filters.
-
-Once you are ready to get started, apply to the program by creating a new issue in this repository and filling a new [Join Thumbor Bootcamp issue](https://github.com/thumbor/thumbor-bootcamp/issues).
-
-First click on the issues tab:
-
-<img src="issues.png" height="80" alt="Click the issues tab" title="Click the issues tab" />
-
-Then click in new issue button:
-
-<img src="new-issue.png" height="60" alt="Click the new issue button" title="Click the new issue button" />
-
-Finally click the join bootcamp "Get started" button and fill your application:
-
-<img src="join-bootcamp.png" alt="Click the new issue button" title="Click the new issue button" />
-
-Your application will be reviewed as soon as possible (remember: 🧘Be patient!). After you are accepted in the program, you can pick one of the L1 tasks and hack away! These tasks are designed to help you move fast and start shipping!
-
 ### 💪 Getting your next task
 
 To get your next task, just find a task of the appropriate level that picks your interest and assign to yourself.
@@ -146,8 +146,8 @@ If you can't work on the task anymore, just add to the task what progress you ma
 
 If you have any issues do not hesitate to get in touch with one of these mentors. Their purpose in this program is to help you keep moving forward!
 
-* @heynemann - Bernardo Heynemann - heynemann@gmail.com
-* @guilhermef - Guilherme Souza - guilherme@souza.tech
+* @heynemann - Bernardo Heynemann - heynemann@gmail.com - Thumbor co-creator and active committer for 12 years
+* @guilhermef - Guilherme Souza - guilherme@souza.tech - Thumbor co-creator and active committer for 12 years
 
 Being a mentor is a really rewarding experience. If you feel like you could be mentoring new people into open source, just ping one of the mentors above and we'll enlist your help!
 

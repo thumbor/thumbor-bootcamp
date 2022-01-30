@@ -115,6 +115,18 @@ It is a good idea to have thumbor running with default settings in your environm
 
 Once you are ready to get started, apply to the program by creating a new issue in this repository and filling a new [Join Thumbor Bootcamp issue](https://github.com/thumbor/thumbor-bootcamp/issues).
 
+First click on the issues tab:
+
+<img src="issues.png" alt="Click the issues tab" title="Click the issues tab" />
+
+Then click in new issue button:
+
+<img src="new-issue.png" alt="Click the new issue button" title="Click the new issue button" />
+
+Finally click the join bootcamp "Get started" button and fill your application:
+
+<img src="join-bootcamp.png" alt="Click the new issue button" title="Click the new issue button" />
+
 Your application will be reviewed as soon as possible (remember: 🧘Be patient!). After you are accepted in the program, you can pick one of the L1 tasks and hack away! These tasks are designed to help you move fast and start shipping!
 
 ### 💪 Getting your next task

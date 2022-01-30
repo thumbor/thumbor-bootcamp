@@ -135,6 +135,7 @@ If you can't work on the task anymore, just add to the task what progress you ma
 If you have any issues do not hesitate to get in touch with one of these mentors. Their purpose in this program is to help you keep moving forward!
 
 * @heynemann - Bernardo Heynemann - heynemann@gmail.com
+* @guilhermef - Guilherme Souza - guilherme@souza.tech
 
 Being a mentor is a really rewarding experience. If you feel like you could be mentoring new people into open source, just ping one of the mentors above and we'll enlist your help!
 

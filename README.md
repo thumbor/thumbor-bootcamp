@@ -113,7 +113,7 @@ Before you even apply to this bootcamp program you can familiarize yourself with
 
 It is a good idea to have thumbor running with default settings in your environment just to get a hang of what it does. Play with it, crop some images, apply filters.
 
-Once you are ready to get started, apply to the program by creating a new issue in this repository and filling a new [Join Thumbor Bootcamp issue](https://github.com/thumbor/thumbor-bootcamp/issues/new).
+Once you are ready to get started, apply to the program by creating a new issue in this repository and filling a new [Join Thumbor Bootcamp issue](https://github.com/thumbor/thumbor-bootcamp/issues).
 
 Your application will be reviewed as soon as possible (remember: 🧘Be patient!). After you are accepted in the program, you can pick one of the L1 tasks and hack away! These tasks are designed to help you move fast and start shipping!
 

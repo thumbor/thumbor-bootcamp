@@ -104,7 +104,7 @@ What is expected of you?
 * 🤢 **Do not bite more than you can chew!** Pick up tasks you feel confident in completing. This helps the community as we keep moving forward as well as keeps you motivated!
 * 🤗 **Be kind!** Always assume good intention as we're all trying to create incredible technology and have fun at the same time!
 * 🧘 **Be patient!** In an open-source project people are donating their time to create good in the world. Thumbor is not different. Maintainers and contributors have families and jobs. We'll help as fast as we can.
-* 🦸‍♀️ **Be a force for good!** Whenever you can try to help other bootcampers, create or groom tasks here, improve documentation. Anything you feel is leaving a better world than what you started with.
+* 🦸‍♀️ **Be a force for good!** Whenever you can, try to help other bootcampers, create or groom tasks, improve documentation. Anything you feel is leaving a better world than what you started with.
 * ⚖️  **Be respectful!** We will not tolerate discrimination of any kind. We will not tolerate usage of words that enforce negative stereotypes. If this is not ok with you, this is not the project for you.
 
 ### 🏃‍♀️ Getting started

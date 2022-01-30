@@ -117,11 +117,11 @@ Once you are ready to get started, apply to the program by creating a new issue 
 
 First click on the issues tab:
 
-<img src="issues.png" height="100" alt="Click the issues tab" title="Click the issues tab" />
+<img src="issues.png" height="80" alt="Click the issues tab" title="Click the issues tab" />
 
 Then click in new issue button:
 
-<img src="new-issue.png" height="80" alt="Click the new issue button" title="Click the new issue button" />
+<img src="new-issue.png" height="60" alt="Click the new issue button" title="Click the new issue button" />
 
 Finally click the join bootcamp "Get started" button and fill your application:
 

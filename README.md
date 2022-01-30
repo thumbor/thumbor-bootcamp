@@ -117,7 +117,7 @@ Once you are ready to get started, apply to the program by creating a new issue 
 
 First click on the issues tab:
 
-<img src="issues.png" alt="Click the issues tab" title="Click the issues tab" />
+<img src="issues.png" height="100" alt="Click the issues tab" title="Click the issues tab" />
 
 Then click in new issue button:
 

@@ -92,12 +92,10 @@ Disclaimer:
 
 | Level | Effort | Expected Duration | Size | Description |
 | --- | --- | --- | --- | --- |
-| Level 1 | Low | ~1d | Single file/module |  This is the bread and butter for people joining thumbor-bootcamp. **This is where you start**. |
-
-* L1 - Low effort. Single module/file. ~1d to complete - This is the bread and butter for people joining thumbor-bootcamp. **This is where you start**.
-* L2 - Medium effort. Single module/file. ~3-4d to complete - Requires some knowledge about how thumbor and its parts work.
-* L3 - Medium effort. Multiple modules. ~2w to complete - This is a project level task. It involves discussing what you are doing, creating tests, updating docs. This is where you actually start learning about what it takes to keep a project the size of thumbor with momentum.
-* L4 - Large effort. Multiple modules. ~1m to complete - This is a transformative task that greatly benefits the ecosystem and the community. Once you complete a few of these, we expect to welcome you to the maintainers team, so you can also help onboard other bootcampers.
+| Level 1 | Low | ~1d | Single file/module | This is the bread and butter for people joining thumbor-bootcamp. **This is where you start**. |
+| Level 2 | Medium | ~3-4d | Single file/module | Requires some knowledge about how thumbor and its parts work. |
+| Level 3 | Medium | ~2w | Multiple files/modules | This is a project level task. It involves discussing what you are doing, creating tests, updating docs. This is where you actually start learning about what it takes to keep a project the size of thumbor with momentum. |
+| Level 4 | Large | ~1m | Multiple files/modules/projects | This is a transformative task that greatly benefits the ecosystem and the community. Once you complete a few of these, we expect to welcome you to the maintainers team, so you can also help onboard other bootcampers. |
 
 ### 🤝 Commitment
 

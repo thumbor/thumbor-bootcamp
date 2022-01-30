@@ -125,6 +125,18 @@ Go to this filtered views to search for your next task:
 * [L3 unassigned tasks](https://github.com/thumbor/thumbor-bootcamp/issues?q=is%3Aopen+-label%3Atriage+label%3AL3+label%3Atask+no%3Aassignee)
 * [L4 unassigned tasks](https://github.com/thumbor/thumbor-bootcamp/issues?q=is%3Aopen+-label%3Atriage+label%3AL4+label%3Atask+no%3Aassignee)
 
+### Mentors
+
+If you have any issues do not hesitate to get in touch with one of these mentors. Their purpose in this program is to help you keep moving forward!
+
+* @heynemann - Bernardo Heynemann - heynemann@gmail.com
+
+Being a mentor is a really rewarding experience. If you feel like you could be mentoring new people into open source, just ping one of the mentors above and we'll enlist your help!
+
 ### 😡 Having Trouble?
 
 If you experience any trouble feel free to create an issue in this repository and tag @heynemann. We'll do our best to help you move forward and have fun!
+
+### Hacking thumbor-bootcamp?
+
+If you need to run any of the scripts in this repository use Python 3.10.1 or greater and install the requirements with pip install -r requirements.txt.

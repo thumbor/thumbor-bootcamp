@@ -65,14 +65,11 @@ Some examples:
 
 * Onboarding
 * Documentation
-* Website
-* Brand
+* Website & Branding
 * Extensibility
 * Imaging and Image Quality
 * Performance
 * Maintainability
-* Security
-* Reliability
 
 A task could be part of more than one area of expertise, but these will help you in figuring out which task is just right for you.
 

@@ -137,6 +137,12 @@ If you have any issues do not hesitate to get in touch with one of these mentors
 
 Being a mentor is a really rewarding experience. If you feel like you could be mentoring new people into open source, just ping one of the mentors above and we'll enlist your help!
 
+### 👩‍💻 Bootcampers
+
+Our current team of bootcampers include the awesome:
+
+* <img src="https://avatars.githubusercontent.com/u/8146857?v=4" width="64" height"64" /> Nicolas Taveira - @nicolastaveira - Joined in 30-Jan-2022
+
 ### 😡 Having Trouble?
 
 If you experience any trouble feel free to create an issue in this repository and tag @heynemann. We'll do our best to help you move forward and have fun!

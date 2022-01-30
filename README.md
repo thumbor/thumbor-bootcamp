@@ -141,7 +141,10 @@ Being a mentor is a really rewarding experience. If you feel like you could be m
 
 Our current team of bootcampers include the awesome:
 
-* <img src="https://avatars.githubusercontent.com/u/8146857?v=4" width="64" height"64" /> Nicolas Taveira - @nicolastaveira - Joined in 30-Jan-2022
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/8146857?v=4" width="64" height"64" /><br/>
+  Nicolas Taveira - @nicolastaveira - Joined in 30-Jan-2022
+</p>
 
 ### 😡 Having Trouble?
 

@@ -145,7 +145,7 @@ Our current team of bootcampers include the awesome:
   <a href="https://github.com/nicolasgabrielt" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/8146857?v=4" width="128" height"128" /><br/>
   </a>
-  @nicolasgabrielt - Nicolas Taveira - He/Him/His<br/>
+  <a href="https://github.com/nicolasgabrielt" target="_blank">@nicolasgabrielt</a> - Nicolas Taveira - He/Him/His<br/>
   Joined in 30-Jan-2022
 </p>
 

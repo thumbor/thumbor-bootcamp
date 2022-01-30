@@ -61,6 +61,8 @@ Thumbor will have bootcamp tasks divided by area of expertise and level.
 
 #### Areas of Expertise
 
+These will be labels in tasks and help you pick something that interests you.
+
 Some examples:
 
 * Onboarding
@@ -70,8 +72,6 @@ Some examples:
 * Imaging and Image Quality
 * Performance
 * Maintainability
-
-A task could be part of more than one area of expertise, but these will help you in figuring out which task is just right for you.
 
 #### Task Levels
 

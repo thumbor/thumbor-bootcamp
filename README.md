@@ -90,12 +90,12 @@ Disclaimer:
   you update the task to allow someone else to work on it.
 ```
 
-| Level | Effort | Expected Duration | Size | Description |
-| --- | --- | --- | --- | --- |
-| Level 1 | Low | ~1d | Single file/module | This is the bread and butter for people joining thumbor-bootcamp. **This is where you start**. |
-| Level 2 | Medium | ~3-4d | Single file/module | Requires some knowledge about how thumbor and its parts work. |
-| Level 3 | Medium | ~2w | Multiple files/modules | This is a project level task. It involves discussing what you are doing, creating tests, updating docs. This is where you actually start learning about what it takes to keep a project the size of thumbor with momentum. |
-| Level 4 | Large | ~1m | Multiple files/modules/projects | This is a transformative task that greatly benefits the ecosystem and the community. Once you complete a few of these, we expect to welcome you to the maintainers team, so you can also help onboard other bootcampers. |
+| Level   | Effort | Expected Duration | Size                            | Description |
+| ------- | ------ | ----------------- | ------------------------------- | --- |
+| Level 1 | Low    | ~1d               | Single file/module              | This is the bread and butter for people joining thumbor-bootcamp. **This is where you start**. |
+| Level 2 | Medium | ~3-4d             | Single file/module              | Requires some knowledge about how thumbor and its parts work. |
+| Level 3 | Medium | ~2w               | Multiple files/modules          | This is a project level task. It involves discussing what you are doing, creating tests, updating docs. This is where you actually start learning about what it takes to keep a project the size of thumbor with momentum. |
+| Level 4 | Large  | ~1m               | Multiple files/modules/projects | This is a transformative task that greatly benefits the ecosystem and the community. Once you complete a few of these, we expect to welcome you to the maintainers team, so you can also help onboard other bootcampers. |
 
 ### 🤝 Commitment
 

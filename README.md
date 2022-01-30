@@ -39,7 +39,7 @@ We could keep going, but the truth is there's room for colaboration on so many l
 - 🤗 Receive coaching all through this experience by thumbor's committers and contributors
 - ❤️  Give back to the community by moving thumbor forward and helping thousands around the world
 
-### What is thumbor? Ecosystem?
+### 📷 What is thumbor? Ecosystem?
 
 [thumbor](https://github.com/thumbor/thumbor) is an extensible imaging HTTP server. It crops, resizes and transforms images on-demand and serves this images to users.
 
@@ -53,7 +53,7 @@ These extensions allow thumbor to run in almost any architecture and cloud out t
 
 You can explore that and more in [thumbor's docs](https://thumbor.readthedocs.io/en/latest/index.html).
 
-### Bootcamp Tasks
+### 🪖 Bootcamp Tasks
 
 Bootcamp tasks are how you interact with this learning experience. We believe in learning through action.
 

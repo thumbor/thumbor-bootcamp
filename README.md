@@ -121,7 +121,7 @@ First click on the issues tab:
 
 Then click in new issue button:
 
-<img src="new-issue.png" alt="Click the new issue button" title="Click the new issue button" />
+<img src="new-issue.png" height="80" alt="Click the new issue button" title="Click the new issue button" />
 
 Finally click the join bootcamp "Get started" button and fill your application:
 

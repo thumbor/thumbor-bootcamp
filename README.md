@@ -105,7 +105,7 @@ What is expected of you?
 * 🤗 **Be kind!** Always assume good intention as we're all trying to create incredible technology and have fun at the same time!
 * 🧘 **Be patient!** In an open-source project people are donating their time to create good in the world. Thumbor is not different. Maintainers and contributors have families and jobs. We'll help as fast as we can.
 * 🦸‍♀️ **Be a force for good!** Whenever you can, try to help other bootcampers, create or groom tasks, improve documentation. Anything you feel is leaving a better world than what you started with.
-* ⚖️  **Be respectful!** We will not tolerate discrimination of any kind. We will not tolerate usage of words that enforce negative stereotypes. If this is not ok with you, this is not the project for you.
+* ⚖️  **Be respectful!** We will not tolerate discrimination of any kind. We will not tolerate usage of words that enforce negative stereotypes. If this is not ok with you, this is not the project for you. For more details check our [Code of Conduct](https://github.com/thumbor/thumbor-bootcamp/blob/main/CODE_OF_CONDUCT.md).
 
 ### 🏃‍♀️ Getting started
 

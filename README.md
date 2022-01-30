@@ -95,31 +95,17 @@ Thumbor will have bootcamp tasks divided by area of expertise and level.
 
 These will be labels in tasks and help you pick something that interests you.
 
-Some examples:
-
-* Onboarding
-* Documentation
-* Website & Branding
-* Extensibility
-* Imaging and Image Quality
-* Performance
-* Maintainability
+Some examples are user onboarding, documentation, website & branding, extensibility, imaging and image quality, performance and maintainability.
 
 #### Task Levels
 
 ```
 Disclaimer:
 
-  These tasks consider an investment of 2h a day.
+  These tasks consider an investment of 2h a day for the estimates.
   If you are investing less time, no worries, just adjust your expectations.
 
-  The expectation of time it takes to complete is also an estimate.
-  It is by no means a deadline or something like it.
-
-  **It's done when it's done.**
-
-  We just ask that if you feel like you won't be able to keep working on something,
-  you update the task to allow someone else to work on it.
+  This is by no means a deadline. **It's done when it's done.**
 ```
 
 | Level   | Effort | Expected Duration | Size                            | Description |

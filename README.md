@@ -98,7 +98,7 @@ Disclaimer:
 * L3 - Medium effort. Multiple modules. ~2w to complete - This is a project level task. It involves discussing what you are doing, creating tests, updating docs. This is where you actually start learning about what it takes to keep a project the size of thumbor with momentum.
 * L4 - Large effort. Multiple modules. ~1m to complete - This is a transformative task that greatly benefits the ecosystem and the community. Once you complete a few of these, we expect to welcome you to the maintainers team, so you can also help onboard other bootcampers.
 
-### Commitment
+### 🤝 Commitment
 
 What is expected of you?
 
@@ -108,7 +108,7 @@ What is expected of you?
 * 🦸‍♀️ **Be a force for good!** Whenever you can try to help other bootcampers, create or groom tasks here, improve documentation. Anything you feel is leaving a better world than what you started with.
 * ⚖️  **Be respectful!** We will not tolerate discrimination of any kind. We will not tolerate usage of words that enforce negative stereotypes. If this is not ok with you, this is not the project for you.
 
-### Getting started
+### 🏃‍♀️ Getting started
 
 Before you even apply to this bootcamp program you can familiarize yourself with thumbor reading its [README](https://github.com/thumbor/thumbor) as well as its [documentation](https://thumbor.readthedocs.io/en/latest/index.html).
 
@@ -118,14 +118,20 @@ Once you are ready to get started, apply to the program by creating a new issue 
 
 Your application will be reviewed as soon as possible (remember: 🧘Be patient!). After you are accepted in the program, you can pick one of the L1 tasks and hack away! These tasks are designed to help you move fast and start shipping!
 
-Go to this filtered views to search for your next task:
+### 💪 Getting your next task
+
+To get your next task, just find a task of the appropriate level that picks your interest and assign to yourself.
+
+You can check open tasks, in each level, using this filtered views:
 
 * [L1 unassigned tasks](https://github.com/thumbor/thumbor-bootcamp/issues?q=is%3Aopen+-label%3Atriage+label%3AL1+label%3Atask+no%3Aassignee)
 * [L2 unassigned tasks](https://github.com/thumbor/thumbor-bootcamp/issues?q=is%3Aopen+-label%3Atriage+label%3AL2+label%3Atask+no%3Aassignee)
 * [L3 unassigned tasks](https://github.com/thumbor/thumbor-bootcamp/issues?q=is%3Aopen+-label%3Atriage+label%3AL3+label%3Atask+no%3Aassignee)
 * [L4 unassigned tasks](https://github.com/thumbor/thumbor-bootcamp/issues?q=is%3Aopen+-label%3Atriage+label%3AL4+label%3Atask+no%3Aassignee)
 
-### Mentors
+If you can't work on the task anymore, just add to the task what progress you made, what you learned and unassign yourself from it.
+
+### 🧙‍♂️ Mentors
 
 If you have any issues do not hesitate to get in touch with one of these mentors. Their purpose in this program is to help you keep moving forward!
 
@@ -137,6 +143,6 @@ Being a mentor is a really rewarding experience. If you feel like you could be m
 
 If you experience any trouble feel free to create an issue in this repository and tag @heynemann. We'll do our best to help you move forward and have fun!
 
-### Hacking thumbor-bootcamp?
+### 💻 Hacking thumbor-bootcamp?
 
 If you need to run any of the scripts in this repository use Python 3.10.1 or greater and install the requirements with pip install -r requirements.txt.

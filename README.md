@@ -18,7 +18,7 @@ learning and contribution experience with ❤️ and 🤗 from the thumbor team
   </a>
 </p>
 
-[thumbor bootcamp](https://github.com/thumbor/thumbor-bootcamp) is a program to ease new contributors into [thumbor](https://github.com/thumbor/thumbor)'s ecosystem, while learning more about open-source collaboration and technology. [Apply now!](https://github.com/thumbor/thumbor-bootcamp/issues/new)
+[thumbor bootcamp](https://github.com/thumbor/thumbor-bootcamp) is a program to ease new contributors into [thumbor](https://github.com/thumbor/thumbor)'s ecosystem, while learning more about open-source collaboration and technology. [Apply now!](https://github.com/thumbor/thumbor-bootcamp/issues)
 
 ### 🕵️ Who's invited?
 

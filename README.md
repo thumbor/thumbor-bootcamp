@@ -90,6 +90,10 @@ Disclaimer:
   you update the task to allow someone else to work on it.
 ```
 
+| Level | Effort | Expected Duration | Size | Description |
+| --- | --- | --- | --- | --- |
+| Level 1 | Low | ~1d | Single file/module |  This is the bread and butter for people joining thumbor-bootcamp. **This is where you start**. |
+
 * L1 - Low effort. Single module/file. ~1d to complete - This is the bread and butter for people joining thumbor-bootcamp. **This is where you start**.
 * L2 - Medium effort. Single module/file. ~3-4d to complete - Requires some knowledge about how thumbor and its parts work.
 * L3 - Medium effort. Multiple modules. ~2w to complete - This is a project level task. It involves discussing what you are doing, creating tests, updating docs. This is where you actually start learning about what it takes to keep a project the size of thumbor with momentum.
